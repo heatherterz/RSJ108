@@ -1,4 +1,4 @@
-<!doctype html>
+<!<!doctype html>
 <html>
   <head><meta name="data-remix-projectId" content="11097">
 <meta name="data-remix-projectTitle" content="Instruction Challenge">
@@ -41,7 +41,7 @@ IN THIS CHALLENGE, YOU WILL LEARN ABOUT:
 -->
 
 
-    <title>Firstname Lastname's Instruction Tips</title>
+    <title>Heather Terzich's Instruction Tips</title>
   <script src="https://thimble.mozilla.org/resources/remix/index.js" type="text/javascript"></script>
 </head>
   <body>
@@ -57,8 +57,8 @@ Replace the header contents:
 
     <header>          
       <img src="https://farm9.staticflickr.com/8697/16174797344_3c22e14ba4_o.png" width="100" align="right" height="100" alt="KH_monogram">            
-      <h1>Firstname Lastname's Name of Site</h1>
-      <h3>An Instruction Challenge for JOUR108</h3>
+      <h1>Heather Terzich's Website</h1>
+      <h3>How to make a milkshake</h3>
 
     </header>
 
@@ -74,14 +74,14 @@ Add your introduction to your step-by-step-guide, including a title, time requir
         <div class="introduction">
 
           <div class="information">
-            <h1>How to make an awesome ...</h1>
+            <h1>How to make a GREAT milkshake</h1>
 
             <hr>
-            <p><b>Assembly time:</b> 30 minutes<br>
-              <b>Awesome rating:</b> 10% awesome</p>
+            <p><b>Assembly time:</b> 13 minutes<br>
+              <b>Awesome rating:</b> 99% awesome</p>
             <hr>
 
-            <p>Are you wondering how to make a cool rocket that can easily surpass a baking soda-vinegar rocket? It's really fun to make. Why don't you try to make it yourself? Follow the steps and you'll make a great rocket!</p>
+            <p>Have you been wanting to make the best milkshake? It's really fun and easy to make. So try it for yourself? Follow these steps and you'll make an amazing milkshake!</p>
 
           </div>
 
@@ -95,12 +95,12 @@ Add your Things You'll Need.
 -->         
             <ul class="list-of-items">
               <li><h2>Things You'll Need</h2></li>
-              <li>Bottle</li>
-              <li>Cardboard</li>
-              <li>Hand pump (bicycle)</li>
-              <li>Cork (vintage wines)</li>
-              <li>Duct Tape</li>
-              <li>Water</li>
+              <li>Cup</li>
+              <li>Milk</li>
+              <li>Ice Cream</li>
+              <li>Blender</li>
+              <li>Cookie dough</li>
+              <li>Straw</li>
             </ul>
           </aside>
         </div>
@@ -116,35 +116,35 @@ Add your steps. When you need a new step, copy and paste all of the code of an e
           <!-- A new step -->
           <li>
             <div class="content">
-              <h3>Invert the bottle and cut three flippers of cardboard.</h3>
-              <p>This is necessary to hold the rocket at launch time. Make your best design.</p> 
+              <h3>Pour the milk, ice cream, and cookie dough into the blender.</h3>
+              <p>It is important to put the three ingredients into the blender since this is the main step.</p> 
             </div>
           </li>
 
           <!-- A new step -->
           <li>
             <div class="content">
-              <h3>Tape them all to the bottle at an angle of about 120 degrees between them.</h3>
-              <p>Remember, the bottle must be upside down and the flippers must not be taped at the bottle's base.</p>
+              <h3>Once all three of the ingredients are in the blender go ahead and blend it.</h3>
+              <p>Remember, only put enough of the ingredients as you want to drink.</p>
 
               <!--
 This block contains a photo and has a caption.
 We have used a <div> to group and position the flickr photo
 with a paragraph to create a photo with a caption.
 -->
-              <a href="http://www.flickr.com/photos/hucker/132609525/" title="2006-04-22 Yaeum Middle School Rocket Day 19 by Stephen Hucker, on Flickr"><img alt="2006-04-22 Yaeum Middle School Rocket Day 19" height="%" width="%" src="http://farm1.staticflickr.com/52/132609525_8e6452161d.jpg" ></a>
-              <p class="caption">Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+              <a href="https://www.flickr.com/photos/papercherries/5535987923/in/photolist-9rcokD-6eWrim-fWL6eD-2iA96SY-a5ZXFY-rWNZBB-bxUKEr-2hiQkkX-PqTSG2-afESnL-DZypYR-78susn-8cyxj9-fgBAgq-3ogbTh-2kKpmoP-f7mrxc-3tvMd-2gaLY9a-6ms1WQ-4LZioi-3debbQ-48RCiv-6LPg5F-2howHRp-6NTkKr-29CmAdh-7P3koy-7gJx1r-yajLS-XxGy6Y-7gNtyj-2hJKzSm-7fdei3-MeaAP-edm2Kv-8whEf4-2hW9Wqn-2e2P9z-52dbPJ-6hqLCm-2kpD5gW-9UjPjj-L8Kozm-2ib15Dk-5sY8VK-2j93NN2-8EMWsU-5tTwpP-cQfemy" title="milkshakes"><img src="https://live.staticflickr.com/5260/5535987923_defbc48dd3_k.jpg" width="1371" height="2048" alt="milkshakes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> ></a>
+              <p class="caption">This is a picture of an ideal milkshake.</p>
             </div>
           </li>
 
           <!-- A new step -->
           <li>
             <div class="content">
-              <h3>Make a hole through the cork so that the bicycle pump can easily fit into it.</h3>
-              <p>Fix the pump tube to it with plasticine.</p>
+              <h3>Pour the blended contents into your cup.</h3>
+              <p>It's almost ready to drink.</p>
 
 
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/tntOCGkgt98" frameborder="0" allowfullscreen></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/pGL2rytTraA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen</iframe>
             </div>
 
           </li>
@@ -152,16 +152,16 @@ with a paragraph to create a photo with a caption.
           <!-- A new step -->
           <li>
             <div class="content">
-              <h3>Invert the bottle and cut three flippers of cardboard.</h3>
-              <p>This is necessary to hold the rocket at launch time. Make your best design.</p> 
+              <h3>Playing music while making your milkshake is very important.</h3>
+              <p>This allows you to have a great time while making a great snack.</p> 
             </div>
           </li>
 
           <!-- A new step -->
           <li>
             <div class="content">
-              <h3>Invert the bottle and cut three flippers of cardboard.</h3>
-              <p>This is necessary to hold the rocket at launch time. Make your best design.</p> 
+              <h3>Now stick a straw into your perfect milkshake.</h3>
+              <p>And dig in!</p> 
             </div>
           </li>
 
@@ -181,8 +181,8 @@ Change the text and links in the footer of this page to acknowledge the sources 
 -->         
 
     <footer>
-      <p>The original how-to appeared in <a href="http://www.wikihow.com/Hide-Christmas/Birthday-Presents" title="How to Hide Christmas/Birthday Presents: 7 Steps - wikiHow">WikiHow</a>.</p>
-      <p>Images are by <a href="http://www.flickr.com/photos/puuikibeach/4655440844/" title="Aquapod™ Water Rocket Launcher in Action by puuikibeach, on Flickr">puuikibeach from Flickr</a></p>
+       <p>The original how-to appeared in <a href=https://www.wikihow.com/Make-a-Milkshake title="How to Make a Milkshake - wikiHow">WikiHow</a>.</p>
+      <p>Images are by <a href=https://www.flickr.com/photos/papercherries/5535987923/in/photolist-9rcokD-6eWrim-fWL6eD-2iA96SY-a5ZXFY-rWNZBB-bxUKEr-2hiQkkX-PqTSG2-afESnL-DZypYR-78susn-8cyxj9-fgBAgq-3ogbTh-2kKpmoP-3tvMd-2gaLY9a-6ms1WQ-4LZioi-3debbQ-48RCiv-6LPg5F-2howHRp-6NTkKr-f7mrxc-29CmAdh-7P3koy-7gJx1r-yajLS-XxGy6Y-7gNtyj-2hJKzSm-7fdei3-MeaAP-edm2Kv-8whEf4-2hW9Wqn-2e2P9z-52dbPJ-6hqLCm-2kpD5gW-9UjPjj-L8Kozm-2ib15Dk-5sY8VK-2j93NN2-8EMWsU-5tTwpP-cQfemy title=Milkshake by rosalind, on Flickr">paper cherries from Flickr</a></p>
     </footer>
 
     <!--
@@ -212,7 +212,7 @@ Customise the visual style and appearance of your guide.
         width:100%;
         font-weight:normal;
         font-family:Arial, sans-serif;         /* CHANGE THE FONT HERE */
-        color:#555;         /* CHANGE THE FONT COLOR HERE */
+        color:#219ebc;         /* CHANGE THE FONT COLOR HERE */
       }  
 
       /* PAGE LAYOUT */
@@ -220,7 +220,7 @@ Customise the visual style and appearance of your guide.
       header, footer {
         padding:5%;
         border:0 10%;
-        background-color:#A1D0EB;          /* CHANGE THE HEADER AND FOOTER COLOR HERE */
+        background-color:#8ecae6;          /* CHANGE THE HEADER AND FOOTER COLOR HERE */
         width:100%;
         margin:0px;        
       }
@@ -249,7 +249,7 @@ Customise the visual style and appearance of your guide.
       /* BASIC STYLES FOR THE PAGE */
       
       a {
-        color:#1593A1;         /* CHANGE THE LINK COLOR HERE */
+        color:#023047;         /* CHANGE THE LINK COLOR HERE */
         font-weight:bold;
       }
 
@@ -278,7 +278,7 @@ Customise the visual style and appearance of your guide.
       ul {
         font-family:"Courier New", Courier, monospace;
         box-shadow:0px 2px 10px #ddd;
-        background-color: #D3E3E8;          /* CHANGE THE THINGS BACKGROUND COLOR HERE */
+        background-color: #ffb703;          /* CHANGE THE THINGS BACKGROUND COLOR HERE */
         border: 1px solid #555;           /* CHANGE THE THINGS BORDER HERE */
         padding:0;
         margin:2em 0 0;
@@ -301,11 +301,11 @@ Customise the visual style and appearance of your guide.
       }
 
       .content {
-        background: #fff;          /* CHANGE THE INSTRUCTION BACKGROUND COLOR HERE */
+        background: #8ecae6;          /* CHANGE THE INSTRUCTION BACKGROUND COLOR HERE */
       }
 
       .step-by-step li:before {
-        background: #D3E3E8;          /* CHANGE THE INSTRUCTION NUMBER BACKGROUND COLOR HERE */
+        background: #03071e;          /* CHANGE THE INSTRUCTION NUMBER BACKGROUND COLOR HERE */
         border-top-left-radius: 50px;          /* CHANGE THE INSTRUCTION SHAPE HERE */
         border-bottom-left-radius: 50px;
       }
