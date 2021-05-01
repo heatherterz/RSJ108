@@ -1,4 +1,3 @@
-<!<!doctype html>
 <html>
   <head><meta name="data-remix-projectId" content="11097">
 <meta name="data-remix-projectTitle" content="Instruction Challenge">
@@ -56,7 +55,7 @@ Replace the header contents:
 -->
 
     <header>          
-      <img src=https://www.flickr.com/photos/192881711@N02/51149606491/in/dateposted-public/" title="monogram"><img src="https://live.staticflickr.com/65535/51149606491_730b05445c_b.jpg" width="1024" height="720" alt="monogram">            
+      <img src=https://www.flickr.com/photos/192881711@N02/51149606491/in/dateposted-public/" title="monogram"><img src="https://live.staticflickr.com/65535/51149606491_730b05445c_b.jpg" width="512" height="360" img {opacity: 0.5;}alt="monogram">            
       <h1>Heather Terzich's Website</h1>
       <h3>How to make a milkshake</h3>
 
