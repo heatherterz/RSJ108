@@ -55,7 +55,7 @@ Replace the header contents:
 -->
 
     <header>          
-      <img src=https://www.flickr.com/photos/192881711@N02/51149606491/in/dateposted-public/" title="monogram"><img src="https://live.staticflickr.com/65535/51149606491_730b05445c_b.jpg" width="512" height="360" img {opacity: 0.5;}alt="monogram">            
+      <img src=https://www.flickr.com/photos/192881711@N02/51149606491/in/dateposted-public/" title="monogram"><img src="https://live.staticflickr.com/65535/51149606491_730b05445c_b.jpg" width="512" height="360" alt="monogram">            
       <h1>Heather Terzich's Website</h1>
       <h3>How to make a milkshake</h3>
 
@@ -131,7 +131,7 @@ This block contains a photo and has a caption.
 We have used a <div> to group and position the flickr photo
 with a paragraph to create a photo with a caption.
 -->
-              <a href="https://www.flickr.com/photos/papercherries/5535987923/in/photolist-9rcokD-6eWrim-fWL6eD-2iA96SY-a5ZXFY-rWNZBB-bxUKEr-2hiQkkX-PqTSG2-afESnL-DZypYR-78susn-8cyxj9-fgBAgq-3ogbTh-2kKpmoP-f7mrxc-3tvMd-2gaLY9a-6ms1WQ-4LZioi-3debbQ-48RCiv-6LPg5F-2howHRp-6NTkKr-29CmAdh-7P3koy-7gJx1r-yajLS-XxGy6Y-7gNtyj-2hJKzSm-7fdei3-MeaAP-edm2Kv-8whEf4-2hW9Wqn-2e2P9z-52dbPJ-6hqLCm-2kpD5gW-9UjPjj-L8Kozm-2ib15Dk-5sY8VK-2j93NN2-8EMWsU-5tTwpP-cQfemy" title="milkshakes"><img src="https://live.staticflickr.com/5260/5535987923_defbc48dd3_k.jpg" width="1371" height="2048" alt="milkshakes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> ></a>
+              <a href="https://www.flickr.com/photos/papercherries/5535987923/in/photolist-9rcokD-6eWrim-fWL6eD-2iA96SY-a5ZXFY-rWNZBB-bxUKEr-2hiQkkX-PqTSG2-afESnL-DZypYR-78susn-8cyxj9-fgBAgq-3ogbTh-2kKpmoP-f7mrxc-3tvMd-2gaLY9a-6ms1WQ-4LZioi-3debbQ-48RCiv-6LPg5F-2howHRp-6NTkKr-29CmAdh-7P3koy-7gJx1r-yajLS-XxGy6Y-7gNtyj-2hJKzSm-7fdei3-MeaAP-edm2Kv-8whEf4-2hW9Wqn-2e2P9z-52dbPJ-6hqLCm-2kpD5gW-9UjPjj-L8Kozm-2ib15Dk-5sY8VK-2j93NN2-8EMWsU-5tTwpP-cQfemy" title="milkshakes"><img src="https://live.staticflickr.com/5260/5535987923_defbc48dd3_k.jpg" width="685.5" height="1012" alt="milkshakes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> ></a>
               <p class="caption">This is a picture of an ideal milkshake.</p>
             </div>
           </li>
@@ -180,8 +180,8 @@ Change the text and links in the footer of this page to acknowledge the sources 
 -->         
 
     <footer>
-       <p>The original how-to appeared in <a href=https://www.wikihow.com/Make-a-Milkshake title="How to Make a Milkshake - wikiHow">WikiHow</a>.</p>
-      <p>Images are by <a href=https://www.flickr.com/photos/papercherries/5535987923/in/photolist-9rcokD-6eWrim-fWL6eD-2iA96SY-a5ZXFY-rWNZBB-bxUKEr-2hiQkkX-PqTSG2-afESnL-DZypYR-78susn-8cyxj9-fgBAgq-3ogbTh-2kKpmoP-3tvMd-2gaLY9a-6ms1WQ-4LZioi-3debbQ-48RCiv-6LPg5F-2howHRp-6NTkKr-f7mrxc-29CmAdh-7P3koy-7gJx1r-yajLS-XxGy6Y-7gNtyj-2hJKzSm-7fdei3-MeaAP-edm2Kv-8whEf4-2hW9Wqn-2e2P9z-52dbPJ-6hqLCm-2kpD5gW-9UjPjj-L8Kozm-2ib15Dk-5sY8VK-2j93NN2-8EMWsU-5tTwpP-cQfemy title=Milkshake by rosalind, on Flickr">paper cherries from Flickr</a></p>
+       <p>The original how-to appeared in https://www.wikihow.com/Make-a-Milkshake title="How to Make a Milkshake - wikiHow">WikiHow </p>
+      <p>Images are by https://www.flickr.com/photos/papercherries/5535987923/in/photolist-9rcokD-6eWrim-fWL6eD-2iA96SY-a5ZXFY-rWNZBB-bxUKEr-2hiQkkX-PqTSG2-afESnL-DZypYR-78susn-8cyxj9-fgBAgq-3ogbTh-2kKpmoP-3tvMd-2gaLY9a-6ms1WQ-4LZioi-3debbQ-48RCiv-6LPg5F-2howHRp-6NTkKr-f7mrxc-29CmAdh-7P3koy-7gJx1r-yajLS-XxGy6Y-7gNtyj-2hJKzSm-7fdei3-MeaAP-edm2Kv-8whEf4-2hW9Wqn-2e2P9z-52dbPJ-6hqLCm-2kpD5gW-9UjPjj-L8Kozm-2ib15Dk-5sY8VK-2j93NN2-8EMWsU-5tTwpP-cQfemy title=Milkshake by rosalind, on Flickr">paper cherries from Flickr</p>
     </footer>
 
     <!--
